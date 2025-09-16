@@ -1,0 +1,1 @@
+package com.denm_kaac.users.servicio; import com.denm_kaac.users.modelo.entidad.Producto; public interface ProductoService extends CrudService<Producto, Long> {}

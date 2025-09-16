@@ -1,0 +1,1 @@
+package com.denm_kaac.users.servicio; import com.denm_kaac.users.modelo.entidad.Categoria; public interface CategoriaService extends CrudService<Categoria, Long> {}

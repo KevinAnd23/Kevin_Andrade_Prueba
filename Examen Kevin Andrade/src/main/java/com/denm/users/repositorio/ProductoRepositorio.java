@@ -1,0 +1,1 @@
+package com.denm_kaac.users.repositorio; import com.denm_kaac.users.modelo.entidad.Producto; import org.springframework.data.jpa.repository.JpaRepository; public interface ProductoRepositorio extends JpaRepository<Producto, Long> {}
